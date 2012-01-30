@@ -17,7 +17,7 @@ It using Vundle for manage all plugin. So, I assume you have git installed.
 
 ```
 cd ~/
-git clone https://yodiaditya@github.com/yodiaditya/vim-server.git
+git clone git://github.com/yodiaditya/vim-server.git
 ln -s ~/vim-server/.vim ~/.vim
 ln -s ~/vim-server/.vimrc ~/.vimrc
 git clone http://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
