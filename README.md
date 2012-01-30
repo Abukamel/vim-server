@@ -10,6 +10,7 @@ It's coming with several features :
 
 3. Use Space and Backspace for Page-Down/Page-up shortcuts.
 
+4. CTRL + V for paste mode
 
 # Installation
 
