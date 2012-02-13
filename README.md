@@ -21,7 +21,7 @@ cd ~/
 git clone git://github.com/yodiaditya/vim-server.git
 ln -s ~/vim-server/.vim ~/.vim
 ln -s ~/vim-server/.vimrc ~/.vimrc
-git clone http://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
+git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
 ```
 
 Now, edit ~/.vimrc using VIM and do ``:BundleInstall`` to start downloading.
